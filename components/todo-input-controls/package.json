@@ -1,0 +1,15 @@
+{
+  "name": "@bit/joerdis101.vue-shared-components.todo-input-controls",
+  "version": "1.0.1",
+  "homepage": "https://bit.dev/joerdis101/vue-shared-components/todo-input-controls",
+  "main": "dist/TodoInputControls.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/bundlers/vue@2.6.20"
+    }
+  }
+}
